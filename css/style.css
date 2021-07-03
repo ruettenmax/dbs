@@ -1,0 +1,45 @@
+.graph-box {
+	width:10%;
+	height:40%;
+	margin:10px;
+}
+.gauge-cont{
+	display:-webkit-box;
+}
+
+.btn-style {
+  border-color: #3498db;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+}
+#bubble-box{
+	height:800px;
+}
+#bubble-upper{
+	height: 500px;
+	width: 100%;
+}
+#bubble-lower{
+	height: 300px;
+	display:-webkit-box;
+}
+#bubble-chart-lower-1{
+	height: 300px;
+	width: 50%;
+}
+#bubble-chart-lower-2{
+	height: 300px;
+	width: 50%;
+}
+#bubbleChart1{
+	height: 500px;
+	width: 100%;
+}
+#bubbleChart2{
+	height: 500px;
+	width: 50%;
+}
+#bubbleChart3{
+	height: 500px;
+	width: 50%;
+}
